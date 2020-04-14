@@ -1,0 +1,66 @@
+.root{
+	 -fx-background-image: url("file:PCB.jpg");	
+     -fx-background-color: linear-gradient(#FFFFFF, #bec4de);
+     -fx-font-size: 14.0pt;
+     -fx-text-fill: #FFFF;  
+ }
+
+ .label{
+     -fx-text-fill: #FFFF;
+     -fx-font-size: 16.0pt
+  }
+  
+  .categoryAxis{
+       -fx-font-size: 40.0pt
+  
+  }
+  
+  #alg{
+	-fx-font-size: 16.0pt;
+    -fx-background-color: linear-gradient(#2B1EA0, #0B7EF0);
+    -fx-text-fill: #FFFF;
+ }
+ 
+ .button{
+	-fx-background-radius: 100.0;
+    -fx-font-size: 18.0pt;
+    -fx-background-color: linear-gradient(#2B1EA0, #0B7EA0);
+    -fx-text-fill: #FFFF;
+ }
+ 
+ #b5{
+	-fx-background-radius: 100.0;
+    -fx-font-size: 25.0pt;
+    -fx-background-color: linear-gradient(#2B1EA0, #0B7EA0);
+    -fx-text-fill: #FFFF;
+ }
+ 
+ #b6{
+	-fx-background-radius: 100.0;
+    -fx-font-size: 25.0pt;
+    -fx-background-color: linear-gradient(#2B1EA0, #0B7EA0);
+    -fx-text-fill: #FFFF;
+ }
+ 
+.button:hover{
+    -fx-background-color: linear-gradient(#0B182F, #0B144A);
+	-fx-background-radius: 100.0;
+	-fx-cursor: hand;
+ }
+ 
+ #b5:hover{
+    -fx-background-color: linear-gradient(#0B182F, #0B144A);
+	-fx-background-radius: 100.0;
+	-fx-cursor: hand;
+ }
+ 
+ #b6:hover{
+    -fx-background-color: linear-gradient(#0B182F, #0B144A);
+	-fx-background-radius: 100.0;
+	-fx-cursor: hand;
+ }
+ 
+ .text-area{
+ 	-fx-background-color: white;
+    -fx-background-radius: 0.0;
+  }

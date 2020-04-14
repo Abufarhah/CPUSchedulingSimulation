@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\lenovo\Desktop\Project\CPUScheduler\Project.jar</jar>
+  <outfile>C:\Users\lenovo\Desktop\Project\CPUScheduler\Project.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\lenovo\Desktop\Project\CPUScheduler\ico.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.0.0.2</fileVersion>
+    <txtFileVersion>Abufarhah</txtFileVersion>
+    <fileDescription>Scheduling Algorithms</fileDescription>
+    <copyright>Abufarhah</copyright>
+    <productVersion>0.0.0.2</productVersion>
+    <txtProductVersion>Abufarhah</txtProductVersion>
+    <productName>Project</productName>
+    <companyName>Abufarhah</companyName>
+    <internalName>Abufarhah</internalName>
+    <originalFilename>Project.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
