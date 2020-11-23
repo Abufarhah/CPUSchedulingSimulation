@@ -2,6 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Scheduler {
+
 	public Process a[];
 
 	public Scheduler() {
